@@ -88,6 +88,8 @@ O gráfico mostra a evolução do uso da expressão `await` ao longo dos anos no
 
 ---
 
+![alt text](image.png)
+
 ## 📈 Evolução temporal
 
 - **De 2020 a 2021**: Uso de `await` era **zero**.  
